@@ -9,5 +9,10 @@ This is a **placeholde**_document_.
 Here are some must haves:
 
 - Header
-    Logo
-    
+    - Logo
+
+### Design Guide
+
+#### Colours
+
+-Back.
