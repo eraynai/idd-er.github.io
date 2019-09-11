@@ -10,8 +10,14 @@ Here are some must haves:
 
 - Header
     - Logo
+    - The name of the program
+    - Navigation
+
+
 
 ### Design Guide
+
+### List of References 
 
 #### Colours
 
