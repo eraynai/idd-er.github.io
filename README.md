@@ -20,5 +20,3 @@ Here are some must haves:
 ### List of References 
 
 #### Colours
-
--Back.
