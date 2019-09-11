@@ -9,10 +9,21 @@ This is a **placeholde**_document_.
 Here are some must haves:
 
 - Header
-    - Logo
-    - The name of the program
+    - Site Logo
     - Navigation
+    - Main Heading
+    - Site Description
 
+- Main Content Area
+
+    - Photos
+    - Vidoes
+    - Main Text
+
+- Footer
+    - Site Navigation
+    - Company Information
+    - Copyright
 
 
 ### Design Guide
