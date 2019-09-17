@@ -10,22 +10,24 @@ Here are some must haves:
 
 - Header
     Site Logo
-    - Navigation 
-    - # H1 Intercation Design and Development
-    - Site Description
+    Navigation 
+    # H1 Intercation Design and Development
+    Site Description
 
 - Main Content Area
 
     **Skills You Will learn**
     **Career Opportunities** 
     **Lifelong Learning**
-    -List of Industry Partners
-     ![alt text](image.jpg)
+    - List of Industry Partners
+     ![alt="design book"](design_book.jpg)
+     ![icons](icons.jpg)
+     ![pencils](pencil.jpg)
     *Articles* 
     *Interviews* 
      *Web Community*
-    - Featured Courses - Links to Learn More
-    - Program Availability
+    Featured Courses - Links to Learn More
+    Program Availability
      > Student Testimonials
 
 - Footer
