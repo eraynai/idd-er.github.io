@@ -16,13 +16,17 @@ Here are some must haves:
 
 - Main Content Area
 
-    - Photos
-    - Vidoes
-    - Main Text
+    - Skills You Will learn
+    - Career Opportunities - List of Industry Partners
+    - Lifelong Learning - Articles, Interviews, Web Community
+    - Featured Courses - Links to Learn More
 
 - Footer
     - Site Navigation
-    - Company Information
+    - School Information
+    - Jobs
+    - FAQ
+    - Social Media Links (twitter, instagram, )
     - Copyright
 
 
