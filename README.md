@@ -11,7 +11,7 @@ Here are some must haves:
 - Header
     Site Logo
     Navigation 
-    # H1 Intercation Design and Development
+    # Intercation Design and Development
     Site Description
 
 - Main Content Area
