@@ -9,24 +9,31 @@ This is a **placeholde**_document_.
 Here are some must haves:
 
 - Header
-    - Site Logo
-    - Navigation
-    - Main Heading
+    Site Logo
+    - Navigation 
+    - # H1 Intercation Design and Development
     - Site Description
 
 - Main Content Area
 
-    - Skills You Will learn
-    - Career Opportunities - List of Industry Partners
-    - Lifelong Learning - Articles, Interviews, Web Community
+    **Skills You Will learn**
+    **Career Opportunities** 
+    **Lifelong Learning**
+    -List of Industry Partners
+     ![alt text](image.jpg)
+    *Articles* 
+    *Interviews* 
+     *Web Community*
     - Featured Courses - Links to Learn More
+    - Program Availability
+     > Student Testimonials
 
 - Footer
-    - Site Navigation
-    - School Information
-    - Jobs
+    - Site Navigation (Courses, Jobs, Articles About)
+    - Logo
+    - Link to Main School Site
     - FAQ
-    - Social Media Links (twitter, instagram, )
+    - Social Media Links (twitter, instagram, youtube)
     - Copyright
 
 
