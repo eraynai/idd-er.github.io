@@ -23,13 +23,13 @@
 
 ### Main Content Area
 
-# All About Interaction Design and Development
+## The Interaction Design and Development Program at George Brown College
 
 ![design book](img/design_book.jpg)
 
 `<p>The interaction design program at George Brown College is a must for anyone who wants to move into the field of user design.  In the program you learn  everything from programs such as Adobe Illustrator and Photoshop to design thinking skills that will serve you well in your chosen career path.  More important the teachers are experienced professionals who care about preparing you to be job ready from day one of graduation</p>`
 
-## Courses You Will Take Over The Three Year Program
+### Courses You Will Take Over The Three Year Program
 
 ![desk](img/desk_ruler.jpg)
 
@@ -56,9 +56,9 @@
 
 ![man at computer](img/man_with_computer.jpg)
 
-`<p>The fees for domestic students are different than the fees for international student.  Please see the chart below that indicates the fee structure for the </p>`
+`<p>The fees for domestic students are different than the fees for international student.  Please see the chart below that indicates the fee structure for the pricing in CDB Dollars</p>`
 
-| Domestic Per Year | International Per Year          
+| Domestic Students Per Year | International Students Per Year          
 | ------------- |:-------------:|
 | $8,882.00      | $16,770.00 | 
 
@@ -77,12 +77,6 @@
 * **Telus Mobility** 
 * **Cisco Canada**
 * **CIBC**
-
-### Articles
-
-`<p>Hit the link below to read some articles on how interaction design is changing the nature of work in key sectors.</p>`
-
-[Read More](index.html)
 
 ## Student Testimonials
 
