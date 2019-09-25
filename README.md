@@ -118,21 +118,11 @@ The page must follow the brand guidelines set out by GBC. This means following t
 
 #### Colours
 
-#f57f25
+primary color - #02e6ee
+primary variant - #30c8e6
 
-#fcb034
+secondary color - #ff4800
+secondary variant - #e6622e
 
-#c3acd3
-
-#7581bf
-
-#71d0f6
-
-#009ddc
-
-#ffd200
-
-#a0ce67
-
-#00b25a
+background - #FFFFFFF
 
