@@ -1,19 +1,39 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,500i&display=swap');
 
-header {
-    background-color: #02e6ee;
-    font: 500 normal 2rem 'Roboto', helvetica, arial, sans-serif;
-    color: white;
+.layout {
+    background-color: bisque;
 }
 
-header p {
-    font: 200 normal 1.5rem 'Roboto', helvetica, arial, sans-serif;
-    color: white;
+.intro {
+
+    font:500 2rem/.9 'Roboto', helvetica, arial, sans-serif;
+    color: plum;
+    text-transform: uppercase;
+    text-align: center;
+    
 }
 
-header nav{
+.intro p {
 
-    font: 300 normal 1.5rem 'Roboto', helvetica, arial, sans-serif;
-    color: #ee0a02;
+    text-decoration: rgb(219, 24, 236) wavy underline;
+    font-weight: 200;
+    text-transform: none;       
+}
 
+.create img {
+   margin-bottom: 1.625rem; /* 26px */
+}
+.create p {
+    color: white;
+    background-color: #434a52;
+    padding: 10% 12%;
+    border-top: 5px solid rgb(219, 24, 236);
+
+a:link {
+    color: #ffa949;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgba(255, 169, 73, .4);
 }
