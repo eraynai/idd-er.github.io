@@ -1,27 +1,137 @@
+
+
+
+/*============================
+Base Element Styles
+=============================*/
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,500i&display=swap');
 
-.layout {
-    background-color: bisque;
+* {
+    box-sizing: border-box;
 }
 
-.intro {
-
-    font:500 2rem/.9 'Roboto', helvetica, arial, sans-serif;
-    color: plum;
-    text-transform: uppercase;
-    text-align: center;
+body {
+    line-height: 1.6;
     
 }
 
-.intro p {
 
-    text-decoration: rgb(219, 24, 236) wavy underline;
-    font-weight: 200;
-    text-transform: none;       
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/*============================
+Base Layout Styles
+=============================*/
+
+/*-----Navigation-------*/
+
+
+
+.main-nav li {
+    font: 200 1.5rem/.9 'Roboto', helvetica, arial, sans-serif;   
+    text-align: center;
+    background: #fff;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+/* -----Layout Containers----- */
+
+.container {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.main-header {
+    background:#FF9933;
+    padding: 1em 0;
+}
+
+.main-footer {
+    background:#FF9933;
+    padding: 2em 0; /* 32px padding top/bottom 8 */
+    text-align: right;
+}
+
+/*============================
+Media Queries
+=============================*/
+
+@media(min-width: 480px){
+
+    .wrap {
+        min-height: 100vh;
+    }
+    .container {
+        width: 70%;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+
+    .main-nav, 
+    .main-nav li {
+        display: inline;
+        margin-right: 40px;
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,500i&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    width: 480px;
+    
+}
+
+.main-header {
+
+    font:500 0.875rem 'Roboto', helvetica, arial, sans-serif; /* 12px */
+    /*height: 300px;
+    border: solid red 2px;
+    width: 75%;
+}
+
+
+
+.main-nav li {
+    
+    display: inline-block;
+    /*padding: 0 10px;
+    margin: 20px 50px;
+    border: solid red 2px;
+    border-right: solid black 1px;
+}
+
+.logo {
+    width: 200px;
+    border: solid red 2px;
 }
 
 .create img {
-   margin-bottom: 1.625rem; /* 26px */
+   margin-bottom: 1.625rem; /* 26px
 }
 .create p {
     color: white;
@@ -38,3 +148,8 @@ a:link {
 a:hover {
     color:rgba(255, 169, 73, .4);
 }
+
+*/
+
+
+
