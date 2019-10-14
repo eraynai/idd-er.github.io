@@ -1,0 +1,177 @@
+/* ===================================
+    GRID LAYOUT
+   =================================== */
+
+   container {
+    height: 100%;
+    display: grid;
+    background-color: white;
+    grid-template-columns: 1fr;
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+    "h"
+    "m" 
+    "d"
+    "w"
+    "p"
+    "c"
+    "e"
+    "what"
+    "threed"
+    "circ"
+    "xblue"
+    "mo"
+    "user"
+    "design"
+    "learn_des"
+    "test"
+    "man"
+    "quote"
+    "woman"
+    "quote_2"
+    "woman_2"
+    "quote_3"
+    "foot";
+}
+
+
+
+
+   .main-footer{
+       grid-area: foot;
+       
+   }
+   .quote_3{
+       grid-area: quote_3;
+   }
+
+   .woman_2{
+       grid-area: woman_2;
+       text-align: center;
+   }
+
+   .quote_2{
+       grid-area: quote_2;
+   }
+
+   .woman{
+       grid-area: woman;
+       text-align: center;
+   }
+
+   .quote{
+       grid-area: quote;
+   }
+
+   .man{
+       grid-area: man;
+       text-align: center;
+   }
+
+   .test{
+       grid-area: test;
+   }
+   
+   .learn_des {
+       grid-area: learn_des;
+   }
+
+   .design {
+       grid-area: design;
+       text-align: center;
+   }
+
+   .user{
+       grid-area: user;
+       text-align: center;
+   }
+
+   .car {
+       grid-area: xblue;
+       text-align: center;
+   }
+
+   .infoa {
+       grid-area: circ;
+       text-align: center;
+   }
+
+   .three_d {
+        grid-area: threed;
+        text-align: center;
+   }
+
+
+   .header {
+       margin: 1em 1em;
+       grid-area: h;
+   }
+
+   .menu {
+       margin-left: 1em;
+       margin-bottom: 1em;
+       grid-area: m;
+       line-height: 3;
+   }
+
+   .definition {
+       grid-area: d;
+   }
+
+    .why{
+        grid-area: w;
+      
+    }
+
+    .align-p {
+       text-align: center;
+       grid-area: p;
+    }
+
+    .align-p1 {
+        text-align: center;
+        grid-area: c;
+    }
+
+    .align-p2 {
+        text-align: center;
+        grid-area: e;
+    }
+
+    .learn {
+        grid-area: what;
+    }
+
+    .motion {
+        grid-area: mo;
+        text-align: center;
+    }
+
+
+   
+
+@media (min-width: 1190px) {
+
+   .container {
+    height: 100%;
+    display: grid;
+    background-color: white;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 100px 400px 150px 300px 150px 250px 250px 250px 200px 300px 300px 200px;
+    /*margin: 50px 50px;*/
+    grid-template-areas:
+    "h h h h h h h h h h h h"
+    "m d d d d d d d d d d d"
+    "m w w w w w w w w w w w"
+    ". . p . . c . . e . . ."
+    ". what what what what what what what what what what what"
+    ". . threed . . circ . . xblue . . ."
+    ". . mo . . user . . design . . ."
+    ". learn_des learn_des learn_des learn_des learn_des learn_des learn_des learn_des learn_des . ."
+    ". test test test test test test test test test test ."
+    ". . man . . woman . . woman_2 . . ."
+    ". . quote . . quote_2 . . quote_3 . . ."
+    "foot foot foot foot foot foot foot foot foot foot foot foot";
+    }
+    
+}

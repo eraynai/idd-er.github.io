@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Staatliches|Unica+One&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+
+.container {
+    color: #feb101;
+}
+
+.header h1 {
+    
+    /*font-family: 'Permanent Marker', cursive, helvetica, arial, sans-serif;*/
+    font-family: 'Poiret One', cursive, Arial, Helvetica, sans-serif;
+    text-align: center;
+   }
+
+   .header h2 {
+       
+       font-family: 'Poiret One', cursive, Arial, Helvetica, sans-serif;
+       font-size: 1em;
+       line-height: 3;
+       
+   }
+
+   .menu, .definition, .why, .learn, .learn_des, .test, p, blockquote, .main-footer {
+    font-family:'Staatliches', cursive, Arial, Helvetica, sans-serif;
+   }
+
+
+    .definition {
+    background-image: url("../img/bg_trans.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;     
+    }
+
+    .learn_des {
+        font-size: 2em;
+        text-align: center;
+        line-height: 1.2;
+    }
+
+
+
+   .definition h1{
+       font-size: 4em;
+       text-align: center;
+   }
+
+   .definition p {
+       font-size: 1.5em;
+       text-align: center;
+       line-height: 2;
+   }
+
+   .why h1 {
+       text-align: center;
+       font-size: 4em;
+   }
+
+   .learn h1{
+    font-size: 4em;
+    text-align: center;
+   }
+
+   .test{
+    font-size: 2em;
+    text-align: center;
+    
+   }
+
+   a {
+       color: burlywood;
+   }
+
+   a:hover{
+       color: #feb101;
+   }
+
+   .main-footer {
+       background-color: black;
+       font-size: 1.5em;
+       padding: 20px;
+   }
+   
+   .menu {
+       font-size: 1.6em;
+       text-align: center;
+       
+   }
+   

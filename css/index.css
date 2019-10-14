@@ -55,6 +55,22 @@ Base Layout Styles
     text-align: right;
 }
 
+
+.headlineblocks {
+    position: relative;
+    overflow: hidden;
+    min-height: 20em;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.headlineblocks img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
 /*============================
 Media Queries
 =============================*/
